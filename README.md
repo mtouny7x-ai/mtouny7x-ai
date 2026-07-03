@@ -1,7 +1,7 @@
 ر<div align="center">
 
 # 👨‍💻 Mohamed Mubarak Touny  
-# 𓆩⑅⃝𒆜 ㄒ ㄖ ㄩ 几 ㄚ 𒆜⑅⃝𓆪
+𒆜 ㄒ ㄖ ㄩ 几 ㄚ 
 
 💻 Software Engineering Student  
 ⚙️ Software Engineer in Progress  
@@ -25,6 +25,7 @@
 🟡 Debugging Skills: UPGRADING  
 🔴 Error Handling: IN PROGRESS  
 ⚠️ Focus Level: HIGH INTENSITY  
+💀 Hacker State: ANGRY MODE ENABLED  
 
 ---
 
