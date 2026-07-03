@@ -1,39 +1,33 @@
-ر<div align="center" width="50">
+ر<div align="center">
 
-# 👋 Mohamed Mubarak Touny
+# 👋 Mohamed Mubarak
 
-💻 مبرمج - قسم Software Engineering  
-🔥 الشهرة: Touny  
-⚙️ Software Engineer in progress  
-🚀 Passionate about Coding & Problem Solving  
+💻 Software Engineering Student  
+⚙️ Software Engineer in Progress  
+🚀 Coding | Problem Solving | Systems Thinking  
 
 📱 WhatsApp: https://wa.me/201029412685  
 📸 Instagram: https://www.instagram.com/x_x.touny  
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
 </div>
 
 ---
 
-## 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Mo-Touny&style=flat&color=orange&label=PROFILE+VIEWS)
+## 🧠 SYSTEM STATUS
+
+🟢 Learning Mode: ACTIVE  
+🟡 Debugging Skills: UPGRADING  
+🔴 Error Handling: IN PROGRESS  
+⚠️ Focus Level: HIGH INTENSITY  
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Software Engineering Student  
-- 💻 Interested in Software Development  
-- 🚀 Always improving my programming skills  
-- ⚡ Focused on becoming a professional Software Engineer  
-
----
-
-## 🛠 Tools & Technologies
+## 🛠 TECH STACK
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -47,23 +41,36 @@
 
 ---
 
-## 📌 Currently
+## 📌 CURRENT OPERATIONS
 
-- 🔥 Learning Software Engineering fundamentals  
-- 💻 Practicing coding daily  
-- 🧩 Building small projects  
-- 🚀 Improving problem solving skills  
+- 🔥 Writing clean code  
+- 💻 Building real projects  
+- 🧩 Solving algorithm problems  
+- 🚀 Leveling up as Software Engineer  
 
 ---
 
-## ⚡ Fun Fact
-> Consistency is the key to mastery 🚀
+## 📡 CONNECTION
+
+📱 WhatsApp: https://wa.me/201029412685  
+📸 Instagram: https://www.instagram.com/x_x.touny  
+
+---
+
+## ⚡ SYSTEM MESSAGE
+
+> "Stay silent. Code loud."
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mo-Touny&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Touny&theme=tokyonight" width="48%"/>
+## 😡💀 HACKER MODE ACTIVATED 💀😡
+
+████████████████████████████  
+█ SYSTEM BREACH: NONE █  
+█ STATUS: UNDER DEVELOPMENT █  
+█ FIREWALL: ACTIVE █  
+████████████████████████████  
 
 </div>
