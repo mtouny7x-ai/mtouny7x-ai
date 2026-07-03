@@ -1,16 +1,21 @@
 ر<div align="center" width="50">
 
+# 👋 Mohamed Mubarak Touny
+
+💻 مبرمج - قسم Software Engineering  
+🔥 الشهرة: Touny  
+⚙️ Software Engineer in progress  
+🚀 Passionate about Coding & Problem Solving  
+
+📱 WhatsApp: https://wa.me/201029412685  
+📸 Instagram: https://www.instagram.com/x_x.touny  
+
+<br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 </div>
-
-# 👋 Hi, I'm Mohamed Mubarak Touny
-
-💻 Software Engineering Student  
-⚙️ Software Engineering Department  
-🚀 Passionate about Programming & Problem Solving  
-🔥 Always learning new technologies  
 
 ---
 
@@ -21,10 +26,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Studying Software Engineering
-- 💻 Interested in software development
-- 🚀 Building coding skills step by step
-- ⚡ Focused on becoming a professional software engineer
+- 🎓 Software Engineering Student  
+- 💻 Interested in Software Development  
+- 🚀 Always improving my programming skills  
+- ⚡ Focused on becoming a professional Software Engineer  
 
 ---
 
@@ -45,21 +50,14 @@
 ## 📌 Currently
 
 - 🔥 Learning Software Engineering fundamentals  
-- 💻 Practicing programming daily  
+- 💻 Practicing coding daily  
 - 🧩 Building small projects  
 - 🚀 Improving problem solving skills  
 
 ---
 
-## 📫 Contact Me
-
-📱 WhatsApp: https://wa.me/201029412685  
-📸 Instagram: https://www.instagram.com/x_x.touny  
-
----
-
 ## ⚡ Fun Fact
-> Consistency beats talent every time 🚀
+> Consistency is the key to mastery 🚀
 
 ---
 
