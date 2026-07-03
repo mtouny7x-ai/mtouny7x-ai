@@ -7,10 +7,19 @@
 ⚙️ Software Engineer in Progress  
 🚀 Coding | Problem Solving | Systems Thinking  
 
-📱 WhatsApp: https://wa.me/201029412685  
-📸 Instagram: https://www.instagram.com/x_x.touny  
-
 <br>
+
+<a href="https://wa.me/201029412685" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="40px"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/x_x.touny" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40px"/>
+</a>
+
+<br><br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
@@ -54,8 +63,15 @@
 
 ## 📡 CONNECTION
 
-📱 WhatsApp: https://wa.me/201029412685  
-📸 Instagram: https://www.instagram.com/x_x.touny  
+<a href="https://wa.me/201029412685" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="40px"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/x_x.touny" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40px"/>
+</a>
 
 ---
 
